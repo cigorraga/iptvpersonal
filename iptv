@@ -1,0 +1,57 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="GLOBO HD" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo HD
+https://assistirtv.xyz/globo-rj/video.m3u8?token=4ac7ccfad7edc123531875191492cdac1285f28e-5610d281e72f8f6889a8ca8a84b8daf2-1642848748-1642845148&remote=45.70.248.111
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="Variedades",Band - RBA TV (PA)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnn.jpg" group-title="Jornalismo",CNN BRASIL - DEGUSTAÇÃO SINAL INTERNET
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Pública", TV Cultura - TV Futuro (RJ)
+https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="Infantil", Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvclassicos.png" group-title="Infantil", TV Clássicos
+https://video01.kshost.com.br/jorge3567/jorge3567/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://i.imgur.com/HnL2uBA.png" tvg-shift="0" group-title="Brasil: variedades em português",Band | Brasil
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://i.imgur.com/HnL2uBA.png" tvg-shift="0" group-title="Brasil: variedades em português",Band | Brasil 2
+https://evpp.mm.uol.com.br/geob_band/band/master.m3u8
+
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/aUU5Hhh.png" group-title="Brasil: variedades em português",Band | RBA TV - PA - Brasil
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal 6 Multimedios Mexico",Canal 6 Multimedios Mexico
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ElFinancieroMx/picture?width=200&height=200" group-title="Int. América" tvg-name="El Financiero Mexico",El Financiero Mexico
+https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200" group-title="Int. América" tvg-name="Televisa News Mexico",Televisa News Mexico
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="ADN40.TV" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" group-title="Int. América" tvg-name="ADN40 Mexico",ADN40 Mexico
+https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal Once Mexico",Canal Once Mexico
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/turistikmedia/picture?width=200&height=200" group-title="Int. América" tvg-name="Turistik TV Mexico",Turistik TV Mexico
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ABCTVpy/picture?width=200&height=200" group-title="Int. América" tvg-name="ABC TV Paraguay",ABC TV Paraguay
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/trecepy/picture?width=200&height=200" group-title="Int. América" tvg-name="Trece Paraguay",Trece Paraguay
+http://174.138.118.252/live/trece.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Unicanal/picture?width=200&height=200" group-title="Int. América" tvg-name="Unicanal Paraguay",Unicanal Paraguay
+http://45.55.127.106/live/unicanal_mid.m3u8
